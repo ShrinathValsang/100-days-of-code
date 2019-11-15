@@ -1,4 +1,22 @@
-# 100 Days Of Code - Log
+####################################
+###### 100 Days Of Code - Log ######
+####################################
+
+### Day 0: Thursday November 14, 2019
+Progress: Checked out the code
+Thoughts:
+Link: https://github.com/ShrinathValsang/100-days-of-code/
+
+### Day 1: Friday November 15, 2019
+Progress: Completed basic-html-and-html5
+Thoughts: 
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-html-and-html5
+
+################################################################################
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
