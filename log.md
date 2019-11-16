@@ -12,6 +12,56 @@ Progress: Completed basic-html-and-html5
 Thoughts: 
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-html-and-html5
 
+### Day 2: Saturday November 16
+Progress: basic-css in-progress
+Thoughts: 
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
+
+### Day 3: Sunday November 17
+Progress: 
+Thoughts: 
+Link: 
+
+### Day 4: Monday November 18
+Progress: 
+Thoughts: 
+Link: 
+
+### Day 5: Tuesday November 19
+Progress: 
+Thoughts: 
+Link: 
+
+### Day : day November
+Progress: 
+Thoughts: 
+Link: 
+
+### Day : day November
+Progress: 
+Thoughts: 
+Link: 
+
+### Day : day November
+Progress: 
+Thoughts: 
+Link: 
+
+### Day : day November
+Progress: 
+Thoughts: 
+Link: 
+
+### Day : day November
+Progress: 
+Thoughts: 
+Link: 
+
+### Day : day November
+Progress: 
+Thoughts: 
+Link: 
+
 ################################################################################
 
 
