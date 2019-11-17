@@ -18,9 +18,9 @@ Thoughts:
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
 
 ### Day 3: Sunday November 17
-Progress: 
-Thoughts: 
-Link: 
+Progress: basic-css completed.
+Thoughts: animation!!!
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
 
 ### Day 4: Monday November 18
 Progress: 
