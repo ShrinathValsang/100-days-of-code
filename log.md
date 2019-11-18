@@ -23,9 +23,9 @@ Thoughts: animation!!!
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
 
 ### Day 4: Monday November 18
-Progress: 
+Progress: applied-visual-design started
 Thoughts: 
-Link: 
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
 
 ### Day 5: Tuesday November 19
 Progress: 
