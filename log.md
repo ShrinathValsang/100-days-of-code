@@ -28,9 +28,9 @@ Thoughts:
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
 
 ### Day 5: Tuesday November 19
-Progress: 
+Progress: applied-visual-design completed
 Thoughts: 
-Link: 
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
 
 ### Day : day November
 Progress: 
