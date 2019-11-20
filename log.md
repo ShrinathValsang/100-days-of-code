@@ -32,27 +32,27 @@ Progress: applied-visual-design completed
 Thoughts: 
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
 
-### Day : day November
+### Day 6: Wednesday November 20
+Progress: applied-accessibility started
+Thoughts: 
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
+
+### Day 7: Thursday November 21
 Progress: 
 Thoughts: 
 Link: 
 
-### Day : day November
+### Day 8: Friday November 22
 Progress: 
 Thoughts: 
 Link: 
 
-### Day : day November
+### Day 9: Saturday November 23
 Progress: 
 Thoughts: 
 Link: 
 
-### Day : day November
-Progress: 
-Thoughts: 
-Link: 
-
-### Day : day November
+### Day 10: Sunday November 24
 Progress: 
 Thoughts: 
 Link: 
