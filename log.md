@@ -38,9 +38,9 @@ Thoughts:
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
 
 ### Day 7: Thursday November 21
-Progress: 
+Progress: applied-accessibility completed
 Thoughts: 
-Link: 
+Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
 
 ### Day 8: Friday November 22
 Progress: 
