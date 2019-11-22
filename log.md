@@ -43,9 +43,10 @@ Thoughts:
 Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
 
 ### Day 8: Friday November 22
-Progress: 
+Progress: responsive-web-design-principles and css-flexbox completed
 Thoughts: 
-Link: 
+Link: 	https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/responsive-web-design-principles
+		https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/css-flexbox
 
 ### Day 9: Saturday November 23
 Progress: 
