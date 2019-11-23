@@ -3,69 +3,67 @@
 ####################################
 
 ### Day 0: Thursday November 14, 2019
-Progress: Checked out the code
-Thoughts:
+*Progress: Checked out the code
+*Thoughts:
 Link: https://github.com/ShrinathValsang/100-days-of-code/
 
 ### Day 1: Friday November 15, 2019
-Progress: Completed basic-html-and-html5
-Thoughts: 
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-html-and-html5
+*Progress: Completed basic-html-and-html5
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-html-and-html5
 
 ### Day 2: Saturday November 16
-Progress: basic-css in-progress
-Thoughts: 
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
+*Progress: basic-css in-progress
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
 
 ### Day 3: Sunday November 17
-Progress: basic-css completed.
-Thoughts: animation!!!
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
+*Progress: basic-css completed.
+*Thoughts: animation!!!
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css
 
 ### Day 4: Monday November 18
-Progress: applied-visual-design started
-Thoughts: 
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
+*Progress: applied-visual-design started
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
 
 ### Day 5: Tuesday November 19
-Progress: applied-visual-design completed
-Thoughts: 
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
+*Progress: applied-visual-design completed
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design
 
 ### Day 6: Wednesday November 20
-Progress: applied-accessibility started
-Thoughts: 
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
+*Progress: applied-accessibility started
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
 
 ### Day 7: Thursday November 21
-Progress: applied-accessibility completed
-Thoughts: 
-Link: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
+*Progress: applied-accessibility completed
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility
 
 ### Day 8: Friday November 22
-Progress: responsive-web-design-principles and css-flexbox completed
-Thoughts: 
-Link: 	https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/responsive-web-design-principles
+*Progress: responsive-web-design-principles and css-flexbox completed
+*Thoughts: 
+*Link(s) to work: 	https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/responsive-web-design-principles
 		https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/css-flexbox
 
 ### Day 9: Saturday November 23
-Progress: 
-Thoughts: 
-Link: 
+*Progress: css-grid completed
+*Thoughts: 
+*Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/css-grid
 
 ### Day 10: Sunday November 24
-Progress: 
-Thoughts: 
-Link: 
+*Progress: 
+*Thoughts: 
+*Link(s) to work: 
 
 ### Day : day November
-Progress: 
-Thoughts: 
-Link: 
+*Progress: 
+*Thoughts: 
+*Link(s) to work: 
 
 ################################################################################
-
-
 
 
 
@@ -74,7 +72,7 @@ Link:
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+***Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
