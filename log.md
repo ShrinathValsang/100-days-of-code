@@ -58,6 +58,31 @@ Progress: responsive-web-design-projects - 1. tribute page started
 Thoughts:   
 Link(s) to work: https://codepen.io/shrinathvalsang/pen/zYYQBLg  
 
+### Day 11: Monday November 25
+Progress: responsive-web-design-projects - 1. tribute page -- still working on this   
+Thoughts:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/zYYQBLg    
+
+### Day : day November
+Progress:   
+Thoughts:   
+Link(s) to work:   
+
+### Day : day November
+Progress:   
+Thoughts:   
+Link(s) to work:   
+
+### Day : day November
+Progress:   
+Thoughts:   
+Link(s) to work:   
+
+### Day : day November
+Progress:   
+Thoughts:   
+Link(s) to work:   
+
 ### Day : day November
 Progress:   
 Thoughts:   
