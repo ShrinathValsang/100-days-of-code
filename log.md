@@ -59,7 +59,8 @@ Thoughts:
 Link(s) to work: https://codepen.io/shrinathvalsang/pen/zYYQBLg  
 
 ### Day 11: Monday November 25
-Progress: responsive-web-design-projects - 1. tribute page -- still working on this   
+Progress: responsive-web-design-projects - 1. tribute page -- still working on this
+		----- spend some more time and completed the tribute page.   
 Thoughts:   
 Link(s) to work: https://codepen.io/shrinathvalsang/pen/zYYQBLg    
 
