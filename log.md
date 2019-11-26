@@ -7,40 +7,48 @@ Progress: Checked out the code
 Thoughts:  
 Link: https://github.com/ShrinathValsang/100-days-of-code/  
 
+
 ### Day 1: Friday November 15, 2019
 Progress: Completed basic-html-and-html5  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-html-and-html5  
+
 
 ### Day 2: Saturday November 16
 Progress: basic-css in-progress  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css  
 
+
 ### Day 3: Sunday November 17
 Progress: basic-css completed.  
 Thoughts: animation!!!  
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/basic-css  
+
 
 ### Day 4: Monday November 18
 Progress: applied-visual-design started  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design  
 
+
 ### Day 5: Tuesday November 19
 Progress: applied-visual-design completed  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-visual-design  
+
 
 ### Day 6: Wednesday November 20
 Progress: applied-accessibility started  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility  
 
+
 ### Day 7: Thursday November 21
 Progress: applied-accessibility completed  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/applied-accessibility  
+
 
 ### Day 8: Friday November 22
 Progress: responsive-web-design-principles and css-flexbox completed  
@@ -48,43 +56,53 @@ Thoughts:
 Link(s) to work: 	https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/responsive-web-design-principles  
 		https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/css-flexbox  
 
+
 ### Day 9: Saturday November 23
 Progress: css-grid completed  
 Thoughts:   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/css-grid  
+
 
 ### Day 10: Sunday November 24
 Progress: responsive-web-design-projects - 1. tribute page started  
 Thoughts:   
 Link(s) to work: https://codepen.io/shrinathvalsang/pen/zYYQBLg  
 
+
 ### Day 11: Monday November 25
 Progress: responsive-web-design-projects - 1. tribute page -- still working on this
 		----- spend some more time and completed the tribute page.   
 Thoughts:   
 Link(s) to work: https://codepen.io/shrinathvalsang/pen/zYYQBLg    
+[demo: https://codepen.io/freeCodeCamp/full/zNqgVx, https://codepen.io/shrinathvalsang/pen/qBBzpjN]   
 
-### Day : day November
+
+### Day 12: Tuesday November 26
+Progress: responsive-web-design-projects - 2. survey form - started    
+Thoughts:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/BaagJpr   
+[demo: https://codepen.io/freeCodeCamp/full/VPaoNP, https://codepen.io/shrinathvalsang/pen/wvvLyob]   
+
+
+### Day 13: Wednesday November 27
 Progress:   
 Thoughts:   
 Link(s) to work:   
 
-### Day : day November
+
+### Day 14: Thursday November 28
 Progress:   
 Thoughts:   
 Link(s) to work:   
 
-### Day : day November
+
+### Day 15: Friday November 29
 Progress:   
 Thoughts:   
 Link(s) to work:   
 
-### Day : day November
-Progress:   
-Thoughts:   
-Link(s) to work:   
 
-### Day : day November
+### Day 16: Saturday November 30
 Progress:   
 Thoughts:   
 Link(s) to work:   
