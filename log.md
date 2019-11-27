@@ -85,9 +85,9 @@ Link(s) to work: https://codepen.io/shrinathvalsang/pen/BaagJpr
 
 
 ### Day 13: Wednesday November 27
-Progress:   
+Progress: responsive-web-design-projects - 2. survey form - in progress, all test cases passed   
 Thoughts:   
-Link(s) to work:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/BaagJpr   
 
 
 ### Day 14: Thursday November 28
