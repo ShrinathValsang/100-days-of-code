@@ -1,6 +1,6 @@
-####################################
-###### 100 Days Of Code - Log ######
-####################################
+################################################################################
+############################ 100 Days Of Code - Log ############################
+################################################################################
 
 ### Day 0: Thursday November 14, 2019
 Progress: Checked out the code  
@@ -91,9 +91,9 @@ Link(s) to work: https://codepen.io/shrinathvalsang/pen/BaagJpr
 
 
 ### Day 14: Thursday November 28
-Progress:   
+Progress: responsive-web-design-projects - 2. survey form - completed, beautified the normal page.  
 Thoughts:   
-Link(s) to work:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/BaagJpr     
 
 
 ### Day 15: Friday November 29
