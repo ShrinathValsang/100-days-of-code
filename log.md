@@ -97,9 +97,9 @@ Link(s) to work: https://codepen.io/shrinathvalsang/pen/BaagJpr
 
 
 ### Day 15: Friday November 29
-Progress:   
-Thoughts:   
-Link(s) to work:   
+Progress: Practicing basics of html, taking a break from 'responsive-web-design-projects'  
+Thoughts: Took a break from the html/css design ('responsive-web-design-projects') and focusing on revision of all the stuff learned till now.   
+Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/catPhotoApp.html   
 
 
 ### Day 16: Saturday November 30
