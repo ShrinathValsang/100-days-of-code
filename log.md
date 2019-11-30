@@ -103,9 +103,10 @@ Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master
 
 
 ### Day 16: Saturday November 30
-Progress:   
-Thoughts:   
-Link(s) to work:   
+Progress: Practicing basics of html (day 2)   
+Thoughts:    
+Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/catPhotoApp.html    
+   
 
 ################################################################################
 
