@@ -6,6 +6,9 @@
 	</head>
 	
 	<body>
+		<p>!DOCTYPE --- for HTML, !DOCTYPE html --- for HTML5,</p>
+		<p>'head' tag contains metadata elements </p>
+		<p>'body' tag contains page elements </p>
 		
 		<main>
 			<h1>Hello World!</h1>
@@ -17,22 +20,12 @@
 			nav, video, article, section etc.</h2>
 
 		<p>I'm a p tag!</p>
-		<p>Header tag paragraph	
-			<br>
-			<h1>An h1 tag</h1>
-			<h2>An h2 tag</h2>
-			<h3>An h3 tag</h2>
-			<h4>An h4 tag</h4>
-			<h5>An h5 tag</h5>
-			<h6>An h6 tag</h6>
-			<br>
+		<p>
+			<h1>An h1 tag</h1> <h2>An h2 tag</h2> <h3>An h3 tag</h2>
+			<h4>An h4 tag</h4> <h5>An h5 tag</h5> <h6>An h6 tag</h6>
 		</p>
 		<br>
-		<br>
 		
-		<h3>href="#" - dead link</h3>
-		<a href="#" alt="A dead link">A dead link</a>
-		<br>
 		
 		<h3>anchor tag to link to content OUTSIDE page [anchor text - 'Cat Photos']</h3>
 		<a href="http://freecatphotoapp.com" alt="">Cat Photos</a>
@@ -46,13 +39,86 @@
 		<a href="#contacts-header">An internal link to Contacts</a>
 		<br>			
 		<h2 id="contacts-header">Contacts</h2>
+
+		<h3>A dead link using href="#" (You can later change the link behaviour using JavaScript)</h3>
+
+		<a href="#" alt="A dead link">A dead link</a>
+		
+		<h3>We can nest anchor tag within other text elements</h3>
+		<p>Here is the link to <a href="https://medium.com/better-programming">Better Programming</a> for you to follow.</p>
 		<br>
+
+		<h3>Rather we can make ANY ELEMENT (even an image) INTO A LINK by nesting them in a anchor tag!</h3>
+		<a href="https://bit.ly/fcc-running-cats"><img src="https://bit.ly/fcc-running-cats" alt="Kittens running"></a>
+		<br><br>
+
 		
 		<h3>An img tag -</h3>
 		<img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
 		<br>
 		<h3>Remember the self closing tags - img , input</h3>
-		
+
+		<h3>Bulleted unordered list using 'ul' tag</h3>
+		<ul>
+			<li>Milk</li>
+			<li>Bread</li>
+			<li>Butter</li>
+		</ul>
+
+		<h3>Ordered list using 'ol' tag</h3>
+		<ol>
+			<li>Milk</li>
+			<li>Bread</li>
+			<li>Butter</li>
+		</ol>
+
+		<h3>A input tag</h3>
+		<input type="text" placeholder="this is placeholder text">
+
+		<p>We can build web forms that actually submit data to server
+			 using just pure html. We can do that by using an action 
+			 (action attribute) on our form element --- 
+			 form action="/submit-cat-photo"</p>
+		<form action="/submit-cat-photo">
+			<input type="text" placeholder="Enter your name" id="name" name="name">
+		</form>
+
+		<p>Submit button sends data from the form to the url specified in your 'action' attribute</p>
+		<button type="submit">This button submits the form.</button>
+
+		<p>Add the attibute 'required' to make your fields mandatory</p>
+		<form action="/submit">
+			<label for=></label>
+			<input type="text" placeholder="Enter your name" required>
+			<button type="submit">Submit</button>
+		</form>
+		<br>
+
+		<p>'div' or division element, is a general purpose container for other elements.</p>
+		<div>
+			<p>Which type of games you like to play?</p>
+			<lable for="indoor">
+				<input id="indoor" type="radio" name="indoor-outdoor" value="Indoor" checked>Indoor
+			</lable>
+			<lable for="outdoor">
+				<input id="outdoor" value="Outdoor" type="radio" name="indoor-outdoor">Outdoor
+			</label>
+			<p>When a form gets submitted, the data is sent to the server and includes entries for the options selected.</p>
+			<p>indoor-outdoor=indoor ['name' attribute = 'value' attribute]</p>
+		</div>
+
+		<div>
+			<p>What kind of personality you are?</p>
+			<label for="loving">
+				<input type="checkbox" id="loving" name="personality" value="loving" checked>Loving
+			</label>
+			<label for="caring">
+				<input type="checkbox" id="caring" name="personality" value="caring">Caring
+			</label>
+			<label for="alone">
+				<input type="checkbox" id="alone" name="personality" value="alone">Alone
+			</label>
+		</div>
 	
 	</body>
 </html>
