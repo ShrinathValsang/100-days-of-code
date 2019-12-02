@@ -110,36 +110,37 @@ Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master
 
 ### Day 17: Sunday December 01
 Progress: Basics of html done, Started Practicing basics of css (day 3)      
-Thoughts:    
+Thoughts: Today was sunday but couldn't (or didn't??) code as much as I wanted to... :(   
 Link(s) to work: https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/catPhotoApp.html     
-				 https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/basic-CSS.html   
+				 https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/basic-CSS.html    
    
 
-### Day 17: Monday December 02
+### Day 18: Monday December 02
+Progress: Practicing basics of css (day 4), also made some progress on the 3. Product Landing page      
+Thoughts: 
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/xxbxwwL        
+				 https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/basic-CSS.html    
+   
+
+### Day 19: Tuesday December 03
 Progress:   
 Thoughts:    
 Link(s) to work:   
    
 
-### Day 18: Tuesday December 03
+### Day 20: Wednesday December 04
 Progress:   
 Thoughts:    
 Link(s) to work:   
    
 
-### Day 19: Wednesday December 04
+### Day 21: Thursday December 05
 Progress:   
 Thoughts:    
 Link(s) to work:   
    
 
-### Day 20: Thursday December 05
-Progress:   
-Thoughts:    
-Link(s) to work:   
-   
-
-### Day 21: Friday December 06
+### Day 22: Friday December 06
 Progress:   
 Thoughts:    
 Link(s) to work:   
