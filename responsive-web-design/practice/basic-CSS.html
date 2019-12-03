@@ -7,16 +7,30 @@
 
 	<script>
 		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css" />
+		<link href="https://fonts.googleapis.com/css?family=Helvetica" rel="stylesheet" type="text/css" />
 	</script>
 
 	<style>
+		.thick-green-border {
+			border-width : 10px;
+			border-color: green;
+			border-style: double;
+			/* border-radius: 10px; */
+			border-radius: 50%;
+		}
+
+		.pink-background {
+			background-color: hotpink;
+		}
+
 		h1 {
 			font-family: 'Courier New', Courier, monospace;
 		}
+
 		h2 {
 			color: red;
 			font-size: 30px;
-			font-family: Lobster , Courier;
+			font-family: 'Lobster' , Courier;
 		}
 
 		.blue-text {
@@ -25,6 +39,13 @@
 
 		p {
 			color:orangered;
+		}
+		form {
+			font-family: Helvetica, sans-serif;
+		}
+
+		.smaller-image {
+			width: 250px;
 		}
 	</style>
 </head>
@@ -58,28 +79,28 @@
 	</main>
 	<br>
 
-	<h2 class="blue-text">CatPhotoApp</h2>
+	<h2 id="cat-photo-app" class="blue-text">CatPhotoApp</h2>
 	<main>
 		<p>Click here to view more <a href="#">cat photos</a>.</p>
 
-		<a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+		<a href="#"><img src="https://bit.ly/fcc-relaxing-cat" class="smaller-image thick-green-border" alt="A cute orange cat lying on its back."></a>
 
-		<div>
-			<p>Things cats love:</p>
+		<div class="pink-background">
+			<p style="color: midnightblue;">Things cats love:</p>
 			<ul>
 				<li>cat nip</li>
 				<li>laser pointers</li>
 				<li>lasagna</li>
 			</ul>
-			<p>Top 3 things cats hate:</p>
+			<p style="color: midnightblue;">Top 3 things cats hate:</p>
 			<ol>
 				<li>flea treatment</li>
 				<li>thunder</li>
 				<li>other cats</li>
 			</ol>
 		</div>
-
-		<form action="/submit-cat-photo">
+		<p>Generic font family names are not case-sensitive. Also, they do not need quotes because they are CSS keywords.</p>
+		<form id="cat-photo-form" action="/submit-cat-photo">
 			<label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
 			<label><input type="radio" name="indoor-outdoor"> Outdoor</label><br>
 			<label><input type="checkbox" name="personality" checked> Loving</label>

@@ -123,9 +123,10 @@ Link(s) to work: https://codepen.io/shrinathvalsang/pen/xxbxwwL
    
 
 ### Day 19: Tuesday December 03
-Progress:   
-Thoughts:    
-Link(s) to work:   
+Progress: Practicing basics of css (day 5), Also progressing with 3. Product Landing page    
+Thoughts:   
+Link(s) to work: 	https://codepen.io/shrinathvalsang/pen/xxbxwwL   
+					https://github.com/ShrinathValsang/100-days-of-code/tree/master/responsive-web-design/practice/basic-CSS.html    
    
 
 ### Day 20: Wednesday December 04
