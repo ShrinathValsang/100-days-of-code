@@ -130,9 +130,9 @@ Link(s) to work: 	https://codepen.io/shrinathvalsang/pen/xxbxwwL
    
 
 ### Day 20: Wednesday December 04
-Progress:   
+Progress: Practicing basics of css (day 6)   
 Thoughts:    
-Link(s) to work:   
+Link(s) to work:  Created a pen for basic-CSS practice - https://codepen.io/shrinathvalsang/pen/OJPPWRa   
    
 
 ### Day 21: Thursday December 05

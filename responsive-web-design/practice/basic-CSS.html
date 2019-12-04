@@ -47,13 +47,47 @@
 		.smaller-image {
 			width: 250px;
 		}
+		.injected-text {
+			margin-bottom: -25px;
+			text-align: center;
+		}
+		.box {
+			border-style: solid;
+			border-width: 5px;
+			border-color: black;
+			text-align: center;
+			/* width: 1080px; */
+		}
+
+		.yellow-box {
+			background-color: yellow;
+			padding: 20px;
+		}
+
+		.red-box {
+			background-color: red;
+			color: #fff;
+			padding: 10px;
+			margin: 10px;
+		}
+
+		.blue-box {
+			background-color: blue;
+			color: #fff;
+			/* padding: 30px; */
+			padding: 40px 20px 20px 40px;
+			/* margin: 30px; */
+			margin: 40px 20px 20px 40px;
+		}
 	</style>
 </head>
 
 <body>
-	<p>Cascaded Style Sheets (CSS) tell the browser how to display the text and other content that you write in HTML.
+	<!-- <p>Cascaded Style Sheets (CSS) tell the browser how to display the text and other 
+		content that you write in HTML.
 	</p>
-	<p>Note that CSS is case-sensitive so be careful with your capitalization. CSS has been adopted by all major
+	<p>Note that CSS is case-sensitive so be careful with your capitalization. 
+		CSS has been adopted by all major
 		browsers and allows you to control:</p>
 	<ul>
 		<li>color</li>
@@ -64,6 +98,7 @@
 		<li>decorations</li>
 		<li>transitions</li>
 	</ul>
+
 	<p>There are three main ways to apply CSS styling: </p>
 	<ol>
 		<li>Apply inline styles directly to HTML elements with the style attribute</li>
@@ -109,12 +144,23 @@
 			<input type="text" placeholder="cat photo URL" required>
 			<button type="submit">Submit</button>
 		</form>
-	</main>
+		<br> -->
 
+		<p>Three important properties control the space that surrounds each HTML element: 
+			padding, margin, and border.</p>
+		<p>An element's padding => space between the element's content and its border.</p>
+		<p>An element's margin =>  space between the element's border and surrounding elements.</p>
+		
+		<p>If you set an element's margin to a negative value, the element will grow larger.</p>
+		<p>padding / margin : top right bottom left</p>
 
+		<h5 class="injected-text">margin</h5>
+		<div class="box yellow-box">
+			<h5 class="box red-box">padding</h5>
+			<h5 class="box blue-box">padding</h5>
+		</div>
 
-
-	</div>
+	<!-- </main> -->
 
 </body>
 
