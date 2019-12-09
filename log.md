@@ -136,15 +136,72 @@ Link(s) to work:  Created a pen for basic-CSS practice - https://codepen.io/shri
    
 
 ### Day 21: Thursday December 05
-Progress:   
+Progress: Practicing basics of css completed, started with applied visual design (day 7)   
 Thoughts:    
-Link(s) to work:   
+Link(s) to work:  	https://codepen.io/shrinathvalsang/pen/OJPPWRa    
+					https://codepen.io/shrinathvalsang/pen/dyPPBQe - Created a pen for applied visual design practice
    
 
 ### Day 22: Friday December 06
+Progress: Practicing applied visual design (day 8)   
+Thoughts: Couldn't make progress as much as I had planned   
+Link(s) to work:  https://codepen.io/shrinathvalsang/pen/dyPPBQe    
+		https://medium.com/@nana8/css-box-shadow-what-is-difference-between-blur-and-spread-c3a3de92a126
+
+
+### Day 23: Saturday December 07
+Progress: Practicing applied visual design (day 9)   
+Thoughts:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/dyPPBQe    
+
+
+### Day 24: Sunday December 08
+Progress: Continuing practice of applied visual design basics (day 10)   
+Thoughts:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/dyPPBQe    
+
+
+### Day 25: Monday December 09
+Progress: Still working on applied visual design basics (day 11)   
+Thoughts:   
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/dyPPBQe    
+
+
+### Day 26: Tuesday December 10
 Progress:   
 Thoughts:    
-Link(s) to work:   
+Link(s) to work:  
+
+
+### Day 27: Wednesday December 11
+Progress:   
+Thoughts:    
+Link(s) to work:  
+
+
+### Day 28: Thursday December 12
+Progress:   
+Thoughts:    
+Link(s) to work:  
+
+
+### Day 29: Friday December 13
+Progress:   
+Thoughts:    
+Link(s) to work:  
+
+
+### Day 30: Saturday December 14
+Progress:   
+Thoughts:    
+Link(s) to work:  
+
+
+### Day 31: Sunday December 15
+Progress:   
+Thoughts:    
+Link(s) to work:  
+
 
 
 ################################################################################
