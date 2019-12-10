@@ -168,9 +168,9 @@ Link(s) to work: https://codepen.io/shrinathvalsang/pen/dyPPBQe
 
 
 ### Day 26: Tuesday December 10
-Progress:   
-Thoughts:    
-Link(s) to work:  
+Progress: Practice applied visual design basics (day 12)      
+Thoughts: Positioning of elements  
+Link(s) to work: https://codepen.io/shrinathvalsang/pen/dyPPBQe    
 
 
 ### Day 27: Wednesday December 11
